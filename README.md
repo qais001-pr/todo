@@ -1,84 +1,23 @@
-🎯 Project Name
-Todo App
-📦 Project Overview
-A mobile Todo app built using React Native with real-time sync using Firebase.
+# To-Do List App
 
-Deliverables:
+A simple and efficient **React Native** application designed to help users manage their daily tasks. This app utilizes **Firebase Realtime Database** for real-time synchronization and updates, ensuring that task data is always current across devices.
 
-✔️ Feature 1
+## Features
 
-✔️ Feature 2
+- **Task Management**: Add, edit, delete tasks, and mark them as complete or pending.
+- **Real-Time Synchronization**: Changes are reflected instantly across all devices using Firebase Realtime Database.
+- **Minimalistic UI**: Clean and intuitive user interface for seamless task management.
+- **Cross-Platform**: Compatible with both **iOS** and **Android** devices.
 
-✔️ Responsive and intuitive UI
+## Technologies Used
 
-✔️ Real-time data handling (if applicable)
+- **Frontend**: React Native
+- **Backend**: Firebase Realtime Database
+- **State Management**: React Context API
+- **Navigation**: React Navigation
 
-Tech Stack:
+## Installation
 
-⚛️ React Native
-
-🔥 Firebase Realtime Database
-
-💅 Styled Components / React Native Stylesheet
-
-📱 Android & iOS Compatibility
-
-🚀 Getting Started
-Follow the steps below to run the project locally:
-
-Prerequisites
-Make sure you’ve completed the React Native Environment Setup.
-
-Installation
-bash
-Copy
-Edit
-# Clone the repository
-git clone https://github.com/qais001-pr/todo.git
-cd project-name
-
-# Install dependencies
-npm install
-# OR
-yarn install
-Firebase Setup (If applicable)
-Go to Firebase Console
-
-Create a new project and enable Realtime Database
-
-Replace the default Firebase config in firebaseConfig.js with your own
-
-Run the App
-Android:
-bash
-Copy
-Edit
-npm run android
-# OR
-yarn android
-iOS:
-bash
-Copy
-Edit
-cd ios
-pod install
-cd ..
-npm run ios
-# OR
-yarn ios
-📂 Project Structure
-bash
-Copy
-Edit
-.
-├── /src
-│   ├── /components      # Reusable UI components
-│   ├── /screens         # App screens
-│   ├── /firebase        # Firebase config and services
-│   └── App.js           # Main entry point
-📸 Screenshots
-(Add screenshots or screen recordings of the project here if available)
-
-🧑‍💻 Developer
-Name: Muhammad Qais
-Email: qaismuhammad742@gmail.com
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/qais001-pr/todo.git
