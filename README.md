@@ -1,11 +1,7 @@
 🎯 Project Name
-This repository contains the source code for a freelance gig delivered via [Fiverr/Upwork/Direct Client]. The project was developed to meet the client's custom requirements using modern, efficient tools and best practices.
-
+Todo App
 📦 Project Overview
-Client Requirement:
-
-A brief description of what the client asked for.
-Example: "A mobile Todo app built using React Native with real-time sync using Firebase."
+A mobile Todo app built using React Native with real-time sync using Firebase.
 
 Deliverables:
 
